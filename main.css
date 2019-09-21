@@ -27,8 +27,8 @@ figure img {
     object-fit: cover; /* 画像のトリミング */
 }
 figcaption {
-    width: 150px;
-    height: 80px;
+    width: 200px;
+    height: 50px;
     font-size: 0.9em;        /* 文字サイズを90%に */
     text-align: center;      /* 中身をセンタリング */
     word-wrap: break-word;
